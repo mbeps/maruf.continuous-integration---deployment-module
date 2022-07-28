@@ -3,6 +3,7 @@
     "displayName": "Continuous Integration & Deployment Module",
     "description": "Contains extensions for CI/CD",
     "version": "0.0.1",
+    "publisher": "Maruf",
     "engines": {
         "vscode": "^1.69.0"
     },
@@ -10,6 +11,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "tabeyti.jenkins-jack",
+        "cschleiden.vscode-github-actions"
     ]
 }
