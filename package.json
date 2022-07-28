@@ -1,0 +1,15 @@
+{
+    "name": "continuous-integration---deployment-module",
+    "displayName": "Continuous Integration & Deployment Module",
+    "description": "Contains extensions for CI/CD",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
