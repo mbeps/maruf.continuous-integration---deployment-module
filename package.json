@@ -12,6 +12,7 @@
     ],
     "extensionPack": [ 
         "tabeyti.jenkins-jack",
-        "cschleiden.vscode-github-actions"
+        "cschleiden.vscode-github-actions",
+        "redhat.vscode-yaml"
     ]
 }
