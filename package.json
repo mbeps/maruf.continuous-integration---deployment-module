@@ -4,6 +4,7 @@
     "description": "Contains extensions for CI/CD",
     "version": "0.0.1",
     "publisher": "Maruf",
+    "repository": "https://github.com/mbeps/maruf.continuous-integration---deployment-module",
     "engines": {
         "vscode": "^1.69.0"
     },
